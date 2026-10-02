@@ -1,7 +1,7 @@
 # 2026-NeurIPS-ORCA
 Code of "ORCA: Orthogonal Residual Consensus Alignment for Multi-View Clustering" (NeurIPS 2026)
 ## Framework
-![ORCA Framework](figure/framework.jpg)
+![ORCA Framework](figure/framework.png)
 ## Requirements
 
 python==3.7.13
